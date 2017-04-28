@@ -4,7 +4,7 @@
     <parent>
         <groupId>com.marta</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.4-SNAPSHOT</version>
+        <version>1.0.4</version>
     </parent>
     <groupId>com.marta</groupId>
     <artifactId>child2</artifactId>
