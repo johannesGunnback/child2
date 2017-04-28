@@ -18,7 +18,7 @@
         <dependency>
             <groupId>com.marta</groupId>
             <artifactId>child1</artifactId>
-            <version>1.5-SNAPSHOT</version>
+            <version>1.0.9-SNAPSHOT</version>
         </dependency>
     </dependencies>
 </project>
