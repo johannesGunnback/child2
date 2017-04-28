@@ -4,10 +4,10 @@
     <parent>
         <groupId>com.marta</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.1-SNAPSHOT</version>
+        <version>1.0.1</version>
     </parent>
+    <groupId>com.marta</groupId>
     <artifactId>child2</artifactId>
-    <version>1.2-SNAPSHOT</version>
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -18,7 +18,7 @@
         <dependency>
             <groupId>com.marta</groupId>
             <artifactId>child1</artifactId>
-            <version>1.0.9-SNAPSHOT</version>
+            <version>${project.version}</version>
         </dependency>
     </dependencies>
 </project>
